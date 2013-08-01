@@ -9,7 +9,7 @@ public interface Character extends Renderable {
 	public int getInteractingId();
 	
 	public int getX();
-	
+	asdfasdfasdfasdf
 	public int getY();
 	
 	public int getHeight();
